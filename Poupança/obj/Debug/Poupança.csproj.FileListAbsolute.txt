@@ -1,0 +1,6 @@
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\obj\Debug\Poupança.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\bin\Debug\Poupança.exe.config
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\bin\Debug\Poupança.exe
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\bin\Debug\Poupança.pdb
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\obj\Debug\Poupança.exe
+C:\Users\vinicius.manoel\Desktop\Faculdade\Poupança\Poupança\obj\Debug\Poupança.pdb
